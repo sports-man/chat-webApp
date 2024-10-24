@@ -10,6 +10,6 @@ SMS Notifications will come later, on the second version with Twillio.
 
 website - https://splendorous-treacle-5c22ab.netlify.app/
 
-E-mail - goubardleo@gmail.com
+E-mail - sportsman0701@gmail.com
 
 Want me to work with you ? Send me an e-mail 👌
